@@ -8,20 +8,6 @@ A basic command-line banking application written in Java. This interactive tool 
 - Clean, menu-driven interface with looping until exit
 - Uses methods to modularize logic
 
-📋 Sample Menu Output
-
-**************
-BANKING SYSTEM
-**************
-1. Balance
-2. Deposit
-3. Withdraw
-4. Exit
-**************
-Enter your option: 1
-**************
-₹5.55
-
 ✅ Validations
 - Prevents negative deposits and withdrawals
 - Ensures withdrawal amount does not exceed balance
